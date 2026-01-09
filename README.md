@@ -29,6 +29,3 @@ This project is **open-source** and intended to be improved by the community. Co
 
 - Want to help? Open an issue or submit a PR with improvements, new prompt patterns, or real-world examples.
 - Maintainers will review changes, but direction is community-driven.
-
-## Source
-Originally derived from a user-supplied playbook dated **Jan 16, 2025**, then formatted and organized for community use.
